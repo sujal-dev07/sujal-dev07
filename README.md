@@ -1,5 +1,5 @@
 # 💫 About Me:
- Working on Full-Stack Development<br><br> Looking to collaborate on Web Development Projects<br><br> Learning Laravel, React.js & Node.js<br><br>Ask me about PHP, Laravel, Python, MySQL & JavaScript<br><br>Fun fact: Turning ideas into web applications is my favorite hobby.
+ Working on Full-Stack Development<br><br> Looking to collaborate on Web Development Projects<br><br> Learning Laravel, Python, React.js & Node.js<br><br>Ask me about PHP, Laravel, Python, MySQL & JavaScript<br><br>Fun fact: Turning ideas into web applications is my favorite hobby.
 
 
 ## 🌐 Socials:
